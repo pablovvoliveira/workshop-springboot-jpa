@@ -14,20 +14,13 @@ Antes de começar, certifique-se de ter os seguintes pré-requisitos instalados 
 Siga as etapas abaixo para configurar o projeto em sua máquina local:
 
 1. Clone este repositório usando o seguinte comando:
+`git clone https://github.com/pablovvoliveira/workshop-springboot-jpa.git`
 
-shell
-Copy code
-git clone https://github.com/pablovvoliveira/workshop-springboot-jpa.git
 2. Navegue até o diretório raiz do projeto:
+`cd workshop-springboot-jpa`
 
-shell
-Copy code
-cd workshop-springboot-jpa
 3. Compile o projeto usando o Maven:
-
-shell
-Copy code
-mvn clean install
+`mvn clean install`
 
 ## Executando o projeto
 Após a conclusão da etapa de configuração, você pode executar o projeto usando o seguinte comando:
